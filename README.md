@@ -22,8 +22,8 @@ The architecture is designed for high availability and scalability, including:
 - `ecs-task-definition.json`: The task definition file for AWS ECS deployment.
 
 ## How to access
--  so if you run locally you could see the webpage at 'localhost:3000'
--  To add the data you should visit 'localhost:3000/add' (Please refer to server.js for all other api's)
+-  so if you run locally you could see the webpage at `localhost:3000`
+-  To add the data you should visit `localhost:3000/add` (Please refer to server.js for all other api's)
 
 ## Deployment Steps
 
