@@ -24,6 +24,8 @@ The architecture is designed for high availability and scalability, including:
 ## How to access
 -  so if you run locally you could see the webpage at `localhost:3000`
 -  To add the data you should visit `localhost:3000/add` (Please refer to server.js for all other api's)
+-  If the application is hosted on the ECS the DNS address of load balancer is enough to access the main page
+-  //y to add the data `DNSaddress/add` should take you to the page to that let's you add the data.
 
 ## Deployment Steps
 
