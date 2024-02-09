@@ -21,6 +21,9 @@ The architecture is designed for high availability and scalability, including:
 - `docker-compose.yml`: Defines the multi-container setup for local testing.
 - `ecs-task-definition.json`: The task definition file for AWS ECS deployment.
 
+so if you run locally you could see the webpage at localhost:3000
+To add the data you should visit localhost:3000/add (Please refer to server.js for all other api's)
+
 ## Deployment Steps
 
 1. Push the Node.js application Docker image to ECR.
